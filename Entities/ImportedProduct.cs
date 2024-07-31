@@ -17,9 +17,8 @@ namespace EletronicsStore.Entities
 
         public override string PriceTag()
         {
-            string priceTag = base.PriceTag();
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"{priceTag} (Customs fee: $ {CustomsFee.ToString("F2", CultureInfo.InvariantCulture)})")
+            sb.AppendLine($"{Name} $ {(Price + CustomsFee).ToString("F2", CultureInfo.InvariantCulture)} (Customs fee: $ {CustomsFee.ToString("F2", CultureInfo.InvariantCulture)})");
 
             return sb.ToString();
         }

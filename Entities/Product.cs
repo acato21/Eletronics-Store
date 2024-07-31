@@ -21,8 +21,9 @@ namespace EletronicsStore.Entities
         public virtual string PriceTag()
         {
             StringBuilder sb = new StringBuilder();
-
             sb.AppendLine($"{Name} $ {Price.ToString("F2", CultureInfo.InvariantCulture)}");
+
+            return sb.ToString();
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Cyberpunk2077\source\repos\EletronicsStore\EletronicsStore\obj\Debug\net8.0\EletronicsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyberpunk2077\source\repos\EletronicsStore\EletronicsStore\obj\Debug\net8.0\EletronicsStore.AssemblyInfoInputs.cache
+C:\Users\Cyberpunk2077\source\repos\EletronicsStore\EletronicsStore\obj\Debug\net8.0\EletronicsStore.AssemblyInfo.cs
+C:\Users\Cyberpunk2077\source\repos\EletronicsStore\EletronicsStore\obj\Debug\net8.0\EletronicsStore.csproj.CoreCompileInputs.cache
+C:\Users\Cyberpunk2077\source\repos\EletronicsStore\EletronicsStore\obj\Debug\net8.0\EletronicsStore.sourcelink.json
+C:\Users\Cyberpunk2077\source\repos\EletronicsStore\EletronicsStore\bin\Debug\net8.0\EletronicsStore.exe
+C:\Users\Cyberpunk2077\source\repos\EletronicsStore\EletronicsStore\bin\Debug\net8.0\EletronicsStore.deps.json
+C:\Users\Cyberpunk2077\source\repos\EletronicsStore\EletronicsStore\bin\Debug\net8.0\EletronicsStore.runtimeconfig.json
+C:\Users\Cyberpunk2077\source\repos\EletronicsStore\EletronicsStore\bin\Debug\net8.0\EletronicsStore.dll
+C:\Users\Cyberpunk2077\source\repos\EletronicsStore\EletronicsStore\bin\Debug\net8.0\EletronicsStore.pdb
+C:\Users\Cyberpunk2077\source\repos\EletronicsStore\EletronicsStore\obj\Debug\net8.0\EletronicsStore.dll
+C:\Users\Cyberpunk2077\source\repos\EletronicsStore\EletronicsStore\obj\Debug\net8.0\refint\EletronicsStore.dll
+C:\Users\Cyberpunk2077\source\repos\EletronicsStore\EletronicsStore\obj\Debug\net8.0\EletronicsStore.pdb
+C:\Users\Cyberpunk2077\source\repos\EletronicsStore\EletronicsStore\obj\Debug\net8.0\EletronicsStore.genruntimeconfig.cache
+C:\Users\Cyberpunk2077\source\repos\EletronicsStore\EletronicsStore\obj\Debug\net8.0\ref\EletronicsStore.dll

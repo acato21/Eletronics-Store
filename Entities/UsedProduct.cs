@@ -18,7 +18,9 @@ namespace EletronicsStore.Entities
         public override string PriceTag()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"{Name} (used) $ {Price.ToString("F2", CultureInfo.InvariantCulture)} (Manufacture date: {ManufactureDate.ToString("dd/MM/YYYY")})");
+            sb.AppendLine($"{Name} (used) $ {Price.ToString("F2", CultureInfo.InvariantCulture)} (Manufacture date: {ManufactureDate.ToString("dd/MM/yyyy")})");
+
+            return sb.ToString();
         }
     }
 }
